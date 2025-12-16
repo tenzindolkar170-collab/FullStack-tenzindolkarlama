@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Tenzin Dolkar",
+        "email": "tenzin@example.com",
+        "password": "$2y$10$exampleHashedPassword",
+        "registered_at": "2025-12-15 16:00:11"
+    },
+    {
+        "name": "Tenzin Dolkar",
+        "email": "tenzin@gmail.com",
+        "password": "$2y$10$KCzOH5LZKL9A4H7892uGseWu9VFxk2sglg3AQ5ZIcfB2GW1c5KIpu",
+        "registered_at": "2025-12-16 06:36:47"
+    }
+]
